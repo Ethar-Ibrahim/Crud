@@ -1,0 +1,32 @@
+body{
+    background-color: #F7ECDE;
+}
+::selection {
+    background-color: #FEC260;
+}
+h1{
+    font-family: "Pacifico", serif;
+    font-weight: 400;
+    font-style: normal;
+    position: relative;
+}
+.line{
+    border-bottom: 2px dashed black;
+}
+h2{
+    font-family: "Righteous", sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    font-style: normal;
+    background-image: linear-gradient(to right, #3ca55c, #b5ac49);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+label{
+    font-family: "PT Sans Caption", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+table{
+    width: 90%;
+}
